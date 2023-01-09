@@ -1,4 +1,4 @@
 <p align="center"> 
   Visitor count<br>
-  <img src="https://LightgraySpatialDictionaries.gabraailhaido.repl.co/image" />
+  <img style='width: 30px;height:30px;' src="https://LightgraySpatialDictionaries.gabraailhaido.repl.co/image" />
 </p>
