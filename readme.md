@@ -1,1 +1,1 @@
-![Toxbic github stats](https://github-readme-stats.vercel.app/api?username=toxbic&show_icons=true&theme=dark)
+![Toxbic github stats](https://github-readme-stats.vercel.app/api?username=toxbic&show_icons=true&theme=tokyonight)
