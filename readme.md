@@ -6,4 +6,4 @@
 |____/ |_|\___/| .__/|_|\__,_|
                |_|   
 ```
-[Click here for dotpia](https://github.com/toxbic/Discord-Selfbot-DTopia)
+https://github.com/toxbic/Discord-Selfbot-DTopia
