@@ -1,1 +1,8 @@
-![Toxbic github stats](https://github-readme-stats.vercel.app/api?username=toxbic&show_icons=true&theme=tokyonight)
+```
+ ____ _____           _       
+|  _ \_   _|__  _ __ (_) __ _ 
+| | | || |/ _ \| '_ \| |/ _` |
+| |_| || | (_) | |_) | | (_| |
+|____/ |_|\___/| .__/|_|\__,_|
+               |_|   
+```
