@@ -8,7 +8,3 @@
 ```
 https://github.com/toxbic/Discord-Selfbot-DTopia
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/toxbic/count.svg" />
-</p>
